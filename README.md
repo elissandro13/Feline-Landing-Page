@@ -5,7 +5,7 @@ Landing Page Example
 
 Follow the link bellow: 
 
-https://elissandro13.github.io/FelineLandingPage/
+https://elissandro13.github.io/Feline-Landing-Page/
 
 ## What I Learned
 
